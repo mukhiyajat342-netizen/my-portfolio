@@ -61,9 +61,9 @@ This is my personal portfolio project built using HTML and CSS.
 > **Author Details**
 - - - 
 ---
-> **Name**    --> Mukhiya
-> **Email**   --> mukhiyajat342@gmail.com
-> **GitHub**  --> mukhiyajat342-netizen
+> **Name**    --> Mukhiya /
+> **Email**   --> mukhiyajat342@gmail.com /
+> **GitHub**  --> mukhiyajat342-netizen /
 
 
  
