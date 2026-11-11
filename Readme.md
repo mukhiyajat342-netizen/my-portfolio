@@ -58,20 +58,12 @@ This is my personal portfolio project built using HTML and CSS.
 > [!NOTE]
 > All images in ".png" format
 
-> Author Details
+> **Author Details**
 - - - 
 ---
-> Name    --> Mukhiya
-> Email   --> mukhiyajat342@gmail.com
-> GitHub  --> mukhiyajat342-netizen
+> **Name**    --> Mukhiya
+> **Email**   --> mukhiyajat342@gmail.com
+> **GitHub**  --> mukhiyajat342-netizen
 
 
----
-
-## 👨‍💻 Author
-* **Name:** Aapka Naam (Jaise: Rahul Kumar)
-* **College:** Aapke College ka Naam (Jaise: XYZ Institute of Technology)
-* **GitHub:** [@aapka-username](https://github.com)
-* **Email:** aapkaemail@example.com
-
-  
+ 
