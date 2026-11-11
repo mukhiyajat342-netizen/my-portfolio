@@ -4,11 +4,18 @@ This is my personal portfolio project built using HTML and CSS.
 ## Module Work
 |Problem no. | Problem Name|
 |---|---|
-Module 1
+Module 1 Terminal, Git & GitHub
 |P1 | Project folder and terminal navigation|
 |P2 | Portfolio repo with an initial commit |
 |P3 | Feature-branch Git workflow           |
 |P4 | GitHub README and version tags.       |
+
+Module 2 HTML & CSS foundations
+|P5| Semantic bio page                             |
+|P6| Full portfolio page structure in semantic HTML|
+|P7| Design tokens and typography system in CSS.   |
+|P8| Sticky navbar and card overlay using CSS positioning|
+|P9| Responsive navbar and card grid using Flexbox |
 
 
 
