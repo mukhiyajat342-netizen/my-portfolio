@@ -1,0 +1,144 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Georgia, "Times New Roman", serif;
+  background-color: #f4f1ea;
+  color: #1c1917;
+  line-height: 1.65;
+  padding: 20px;
+}
+
+.masthead,
+.newspaper-grid,
+.newspaper-footer {
+  max-width: 1120px;
+  margin: 0 auto;
+}
+
+.masthead {
+  text-align: center;
+  border-bottom: 4px double #1c1917;
+  padding-bottom: 16px;
+  margin-bottom: 24px;
+}
+
+.meta-bar {
+  display: flex;
+  justify-content: space-between;
+  font-family: system-ui, sans-serif;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  border-top: 1px solid #1c1917;
+  border-bottom: 1px solid #1c1917;
+  padding: 6px 0;
+  margin-bottom: 14px;
+}
+
+.masthead h1 {
+  font-size: 3.2rem;
+  letter-spacing: 2px;
+  font-weight: 900;
+  line-height: 1.1;
+}
+
+.tagline {
+  font-style: italic;
+  font-size: 0.95rem;
+  color: #44403c;
+  margin-top: 6px;
+}
+
+.newspaper-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 28px;
+}
+
+.lead-story {
+  grid-column: span 2;
+  border-right: 1px solid #d6d3d1;
+  padding-right: 28px;
+}
+
+.lead-story h2 {
+  font-size: 2rem;
+  line-height: 1.2;
+  margin-bottom: 8px;
+}
+
+.byline {
+  font-family: system-ui, sans-serif;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  color: #57534e;
+  margin-bottom: 14px;
+  letter-spacing: 0.4px;
+}
+
+.lead-story figure {
+  margin-bottom: 16px;
+}
+
+.lead-story img {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+  border: 1px solid #a8a29e;
+}
+
+.lead-story figcaption {
+  font-family: system-ui, sans-serif;
+  font-size: 0.8rem;
+  color: #57534e;
+  margin-top: 6px;
+}
+
+.drop-cap::first-letter {
+  float: left;
+  font-size: 3.4rem;
+  line-height: 0.85;
+  padding-right: 10px;
+  font-weight: bold;
+}
+
+.lead-story p + p {
+  margin-top: 12px;
+}
+
+.sidebar-col {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.side-story:first-child {
+  border-bottom: 1px solid #d6d3d1;
+  padding-bottom: 20px;
+}
+
+.side-story h3,
+.sub-story h3 {
+  font-size: 1.3rem;
+  margin-bottom: 6px;
+}
+
+.sub-story {
+  border-top: 2px solid #1c1917;
+  padding-top: 16px;
+}
+
+.newspaper-footer {
+  margin-top: 32px;
+  padding-top: 14px;
+  border-top: 3px double #1c1917;
+  text-align: center;
+  font-size: 0.85rem;
+  color: #57534e;
+}
+
+ 
