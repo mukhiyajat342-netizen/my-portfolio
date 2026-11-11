@@ -54,5 +54,10 @@ This is my personal portfolio project built using HTML and CSS.
   > 3. MARKDOWN
 
 > [!NOTE]
-> All images in ".png" format 
+> All images in ".png" format
+
+>> Author Details
+>> Name    --> Mukhiya
+>> Email   --> mukhiyajat342@gmail.com
+>> GitHub  --> mukhiyajat342-netizen
   
