@@ -49,6 +49,11 @@ This is my personal portfolio project built using HTML and CSS.
     - p13.css
     - image.png
 
-> How all works
-> 
+> used technology
+  1. HTML
+  2. CSS
+  3. MARKDOWN
+
+> [!NOTE]
+> all images in png format 
   
