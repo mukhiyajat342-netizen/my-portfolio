@@ -48,6 +48,7 @@ This is my personal portfolio project built using HTML and CSS.
     - p13.html
     - p13.css
     - image.png
+---
 > ## Used Technology
   > 1. HTML
   > 2. CSS
@@ -56,8 +57,9 @@ This is my personal portfolio project built using HTML and CSS.
 > [!NOTE]
 > All images in ".png" format
 
->> Author Details
->> Name    --> Mukhiya
->> Email   --> mukhiyajat342@gmail.com
->> GitHub  --> mukhiyajat342-netizen
+> Author Details
+- - - 
+> Name    --> Mukhiya
+> Email   --> mukhiyajat342@gmail.com
+> GitHub  --> mukhiyajat342-netizen
   
