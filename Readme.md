@@ -50,7 +50,7 @@ This is my personal portfolio project built using HTML and CSS.
     - image.png
 ---
 ---
-> ## Used Technology
+> ## <span style="font-weight:bold"> Used Technology
   > 1. HTML
   > 2. CSS
   > 3. MARKDOWN
