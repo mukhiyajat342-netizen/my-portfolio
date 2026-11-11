@@ -1,6 +1,18 @@
 # My Portfolio 
 This is my personal portfolio project built using HTML and CSS.
 
+## Module Work
+|Problem no. | Problem Name|
+|---|---|
+Module 1
+|P1 | Project folder and terminal navigation|
+|P2 | Portfolio repo with an initial commit |
+|P3 | Feature-branch Git workflow           |
+|P4 | GitHub README and version tags.       |
+
+
+
+
 ## Project architechure. 
 - p1
     - p1_photo.png
