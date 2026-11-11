@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mukhiya | Grid + Flexbox Shared Layout</title>
+  <link rel="stylesheet" href="p13.css">
+</head>
+<body>
+
+  <div class="page-layout">
+    <header class="site-header">
+      <a href="#" class="logo">Mukhiya</a>
+      <nav aria-label="Primary Navigation">
+        <ul class="nav-list">
+          <li><a href="#">Dashboard</a></li>
+          <li><a href="#">Projects</a></li>
+          <li><a href="#">Courses</a></li>
+          <li><a href="#">Profile</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <aside class="sidebar">
+      <h2>Navigation</h2>
+      <ul class="sidebar-menu">
+        <li><a href="#" class="active">Overview</a></li>
+        <li><a href="#">AI &amp; ML Labs</a></li>
+        <li><a href="#">Web Practicals</a></li>
+        <li><a href="#">Assignments</a></li>
+      </ul>
+    </aside>
+
+    <main class="main-content">
+      <section class="banner">
+        <h1>Grid + Flexbox Architecture</h1>
+        <p>CSS Grid manages the 2D page structure and card tracks, while Flexbox aligns inner rows and buttons.</p>
+      </section>
+
+      <section class="cards-grid" aria-label="Course Modules">
+        <article class="card">
+          <div class="card-tags">
+            <span>CSS Grid</span>
+            <span>2D Layout</span>
+          </div>
+          <h3>Macro Page Skeleton</h3>
+          <p>Controls header, sidebar, main area, and footer placement across rows and columns simultaneously.</p>
+          <div class="card-footer">
+            <span>Module 01</span>
+            <a href="#">Open</a>
+          </div>
+        </article>
+
+        <article class="card">
+          <div class="card-tags">
+            <span>Flexbox</span>
+            <span>1D Alignment</span>
+          </div>
+          <h3>Component Alignment</h3>
+          <p>Handles navbar spacing, tag wrapping, and pushing action links to the bottom of every card.</p>
+          <div class="card-footer">
+            <span>Module 02</span>
+            <a href="#">Open</a>
+          </div>
+        </article>
+
+        <article class="card">
+          <div class="card-tags">
+            <span>Responsive</span>
+            <span>Hybrid</span>
+          </div>
+          <h3>Adaptive Breakpoints</h3>
+          <p>Automatically collapses the sidebar and stacks multi-column grids cleanly on mobile viewports.</p>
+          <div class="card-footer">
+            <span>Module 03</span>
+            <a href="#">Open</a>
+          </div>
+        </article>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <p>&copy; 2026 Mukhiya • S-VYASA University, Bengaluru</p>
+      <div class="footer-links">
+        <a href="#">GitHub</a>
+        <a href="#">LinkedIn</a>
+      </div>
+    </footer>
+  </div>
+
+</body>
+</html>
