@@ -63,7 +63,7 @@ This is my personal portfolio project built using HTML and CSS.
 ---
 > **Name**    --> Mukhiya \
 > **Email**   --> mukhiyajat342@gmail.com \
-> **GitHub**  --> mukhiyajat342-netizen \
+> **GitHub**  --> mukhiyajat342-netizen 
 
 
  
