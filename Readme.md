@@ -48,5 +48,7 @@ This is my personal portfolio project built using HTML and CSS.
     - p13.html
     - p13.css
     - image.png
-    - 
+
+> How all works
+> 
   
