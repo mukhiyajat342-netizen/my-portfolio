@@ -9,7 +9,6 @@ Module 1 Terminal, Git & GitHub
 |P2 | Portfolio repo with an initial commit |
 |P3 | Feature-branch Git workflow           |
 |P4 | GitHub README and version tags.       |
-
 Module 2 HTML & CSS foundations
 |P5| Semantic bio page                             |
 |P6| Full portfolio page structure in semantic HTML|
