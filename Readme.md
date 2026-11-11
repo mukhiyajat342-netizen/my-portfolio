@@ -5,22 +5,48 @@ This is my personal portfolio project built using HTML and CSS.
 - p1
     - p1_photo.png
     - Readme.md
-
 - p2 
     - p2_photo.png 
     - Readme.md
-
 - p3 
     - p3_photo.png 
     - Readme.md 
-
 - p4
     - p4-photo.png
     - Readme.md
-
 - p5 
    - p5.html
    - image.png
-
 - p6
-   - 
+   - p6.html
+   - image.png
+- p7
+   - p7.html
+   - p7.css
+   - image.png
+- p8
+   - p8.html
+   - p8.css
+   - image.png
+- p9
+    - p9.html
+    - p9.css
+    - image.png
+- p10
+    - p10.html
+    - p10.css
+    - image.png
+- p11
+    - p11.html
+    - p11.css
+    - image.png
+- p12
+    - p12.html
+    - p12.css
+    - image.png
+- p13
+    - p13.html
+    - p13.css
+    - image.png
+    - 
+  
